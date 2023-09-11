@@ -1,1 +1,1 @@
-My apologies for any confusion caused. In order to assist with code optimizations, I'll need to see the Python script you're looking to optimize. Please provide the code and I'll be able to suggest improvements and optimizations.
+Certainly, please provide the Python script that needs optimization.
